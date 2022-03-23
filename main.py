@@ -1,4 +1,4 @@
-# 将小鹤音形官网提供的挂接辅助码ini文件转换成支持Windows版百度输入法支持的配置文件
+# 将小鹤音形官网提供的挂接辅助码ini文件转换成支持Windows版百度输入法的配置文件
 import re
 
 file1 = open('./for安卓百度个性短语.ini', 'rt', encoding='UTF-16LE')
